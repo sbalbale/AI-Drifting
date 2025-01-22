@@ -1,6 +1,6 @@
 import tkinter as tk
 import pyglet
-from Track import Track
+from GenerateTrack import Track
 
 # Initialize Tkinter window
 root = tk.Tk()
